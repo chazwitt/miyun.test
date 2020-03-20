@@ -1,0 +1,1 @@
+SELECT * FROM `my_member_group` ORDER BY `displayorder` asc, `id` asc

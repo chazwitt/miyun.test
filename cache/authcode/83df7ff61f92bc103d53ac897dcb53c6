@@ -1,0 +1,1 @@
+SELECT * FROM `my_attachment_data` ORDER BY `id` desc  LIMIT 10

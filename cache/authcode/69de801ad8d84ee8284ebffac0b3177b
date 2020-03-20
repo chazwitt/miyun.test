@@ -1,0 +1,1 @@
+SELECT * FROM `my_1_share_category` ORDER BY `displayorder` ASC, `id` ASC

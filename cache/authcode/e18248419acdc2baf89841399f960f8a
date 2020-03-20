@@ -1,0 +1,1 @@
+SELECT * FROM `my_admin` LEFT JOIN `my_member` ON `my_member`.`id`=`my_admin`.`uid` ORDER BY `uid` desc  LIMIT 10
