@@ -49,7 +49,6 @@ class Category extends \Phpcmf\Home\Module
 		} else {
             exit($this->goto_404_page(dr_lang('栏目参数不存在')));
 		}
-
 		// 初始化模块
         if ($cat['tid'] == 1) {
 		    if ($cat['mid']) {
